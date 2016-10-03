@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="no_items_in_list">No Items In List</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+
+    <string name="TAG">0</string>
+    <string name="ITEM_ID_TAG">1</string>
+    <string name="title_activity_to_do_list">ToDoListActivity</string>
+</resources>
